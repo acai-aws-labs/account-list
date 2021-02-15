@@ -30,18 +30,6 @@ locals {
           "account_owner" = "ACAI"
         }
       }
-      "core_vending" = {
-        "account_id" = "067898277809"
-        "account_tags" = {
-          "account_techname" = "t99cp0001"
-          "account_name"     = "CoreVending"
-          "account_email"    = "aws-lab1-core-vending@acai.gmbh"
-        }
-        "default_resource_tags" = {
-          "account_name"  = "CoreVending"
-          "account_owner" = ""
-        }
-      }
       "core_provisioning" = {
         "account_id" = "851519347965"
         "account_tags" = {
